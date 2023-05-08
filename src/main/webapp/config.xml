@@ -1,0 +1,10 @@
+<urlrewrite>
+    <rule>
+        <from>index-iany-e$</from>
+        <to>/</to>
+    </rule>
+    <rule>
+        <from>index-ato$</from>
+        <to>/acceuil</to>
+    </rule>
+</urlrewrite>
